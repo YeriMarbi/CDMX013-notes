@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+body {
+    background-image: url('https://res.cloudinary.com/drj6uvoii/image/upload/v1670977898/Login_q7ft3x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.logo img {
+    width: 100vw;
+    margin-top: -7vh;
+    height: 70vh;
+}
+
+p {
+    color: #045346;
+    font-family: 'Inter', sans-serif;
+    font-size: x-large;
+    margin-top: -15vh;
+    margin-bottom: 5vh;
+}
+
+.accountbtn,
+.sesionbtn {
+    background-color: #012F2C;
+    border-radius: 5px;
+    border: none;
+    width: 50vw;
+    height: 5vh;
+    color: #8DA56C;
+    font-family: 'Inter', sans-serif;
+    font-size: x-large;
+    margin: 4%;
+}
+
+.googlebtn {
+    background-image: url('https://res.cloudinary.com/drj6uvoii/image/upload/v1670981866/btn_google_ljugh9.png');
+    color: black;
+    background-repeat: no-repeat;
+    width: 50vw;
+    height: 5vh;
+    font-family: 'Inter', sans-serif;
+    font-size: x-large;
+    background-size: 6vw;
+    background-position: 1vw;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: #012F2C;
+    background-color: white;
+    margin: 0;
+}
